@@ -1,0 +1,2 @@
+need to try python 2.7
+need to make sure pycrypto is latest
